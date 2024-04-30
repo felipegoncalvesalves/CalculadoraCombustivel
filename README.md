@@ -19,6 +19,7 @@ O aplicativo Fuel Calculator foi desenvolvido para facilitar o planejamento de v
 - Components de UI
     - TextView
     - EditText
+    - GuideLine
     - ImageView
     - Toolbar
     - Menu select
